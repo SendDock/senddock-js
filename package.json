@@ -12,13 +12,13 @@
     "smtp"
   ],
   "license": "MIT",
-  "author": "Arkhe Systems",
+  "author": "JuansesDev (https://juanses.dev)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arkhe-Systems/senddock-js.git"
+    "url": "git+https://github.com/SendDock/senddock-js.git"
   },
   "homepage": "https://docs.senddock.dev/api/authentication",
-  "bugs": "https://github.com/Arkhe-Systems/senddock-js/issues",
+  "bugs": "https://github.com/SendDock/senddock-js/issues",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
